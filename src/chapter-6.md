@@ -1,5 +1,3 @@
-Chapter 6: Applications of AI in Business
-=========================================
 
 Artificial Intelligence (AI) has various applications in business, ranging from data analysis to automation. In this chapter, we will explore some of the main applications of AI in business.
 

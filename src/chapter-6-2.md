@@ -1,5 +1,3 @@
-Operations and Logistics
-===================================================================
 
 Artificial Intelligence (AI) is transforming the way businesses approach operations and logistics. With its ability to automate repetitive tasks and identify inefficiencies in supply chains, AI can help businesses optimize their operations and reduce costs. In this chapter, we will explore some of the main applications of AI in operations and logistics.
 

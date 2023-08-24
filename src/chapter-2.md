@@ -1,5 +1,3 @@
-Chapter 2: Historical Overview of AI in Business
-================================================
 
 Artificial Intelligence (AI) has a long and varied history in business. From early applications focused on automating routine tasks to current advancements in robotics and automation, AI has transformed the way businesses operate. In this chapter, we will provide an overview of the historical evolution of AI in business and discuss key milestones in its development.
 

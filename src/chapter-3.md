@@ -1,5 +1,3 @@
-Chapter 3: Types of AI in Business
-==================================
 
 Artificial Intelligence (AI) has several applications in business, ranging from data analysis to automation. There are different types of AI that businesses can leverage to improve their operations and decision-making processes. In this chapter, we will discuss some of the main types of AI in business.
 

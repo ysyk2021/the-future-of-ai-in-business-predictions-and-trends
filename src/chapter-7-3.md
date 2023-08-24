@@ -1,5 +1,3 @@
-Integration with Internet of Things (IoT)
-===========================================================================
 
 The integration of artificial intelligence (AI) with the Internet of Things (IoT) is an emerging trend that has the potential to transform industries. The IoT refers to the network of physical devices, vehicles, home appliances, and other items embedded with sensors, software, and connectivity that enable these objects to collect and exchange data. In this chapter, we will explore the emerging trend of integrating AI with IoT.
 

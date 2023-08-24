@@ -1,5 +1,3 @@
-Expert Systems
-==================================================
 
 Expert systems are an application of Artificial Intelligence (AI) that enables businesses to automate decision-making processes. Expert systems use knowledge-based rules and algorithms to make decisions based on data analysis, reasoning, and problem-solving. In this chapter, we will explore how expert systems are being used in business.
 

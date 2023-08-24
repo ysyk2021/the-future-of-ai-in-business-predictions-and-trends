@@ -1,5 +1,3 @@
-Evolution of AI in Business
-=============================================================================
 
 Artificial Intelligence (AI) has been a topic of interest in business since the early days of computing. The evolution of AI in business has been characterized by periods of hype and disappointment, but recent advancements in technology have led to increased adoption and promising applications. In this chapter, we will provide an overview of the historical evolution of AI in business.
 

@@ -1,5 +1,3 @@
-Human Resources and Talent Management
-================================================================================
 
 Artificial Intelligence (AI) is transforming the way businesses approach human resources (HR) and talent management. With its ability to analyze vast amounts of data and identify patterns, AI can help businesses streamline administrative tasks and improve employee experiences. In this chapter, we will explore some of the main applications of AI in HR and talent management.
 

@@ -1,5 +1,3 @@
-Robotics and Automation
-===========================================================
 
 Artificial Intelligence (AI) is increasingly being used in business to automate tasks and improve efficiency. One of the most significant applications of AI in business is robotics and automation. In this chapter, we will explore the different types of robotics and automation that are being used in business.
 
